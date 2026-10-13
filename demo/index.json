@@ -228,5 +228,10 @@
     "repo": "cp/entitled-maven-repository/jakarta.ws.rs-api-2.1.4",
     "reference": "IFPH70807.jar",
     "digest": "sha256:9eb93453de51103cebd3a3b9688dae48211a77b0ea3ed95f6a86157944affe90"
+     },
+  "/com/ibm/demo/liberty/test/1.0.0.1/liberty-1.0.0.1.jar": {
+    "repo": "cp/entitled-maven-repository/liberty-1.0.0.1",
+    "reference": "liberty.jar",
+    "digest": "sha256:9fv93453de51103cebd3a3b9688dae48211a77b0ea3ed95f6a86157944affe90"
   }
 }
